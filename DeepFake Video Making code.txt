@@ -1,0 +1,4 @@
+1-https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=Oxi6-riLOgnm
+
+
+2-https://towardsdatascience.com/realistic-deepfakes-colab-e13ef7b2bba7
